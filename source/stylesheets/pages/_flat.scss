@@ -1,0 +1,49 @@
+.header-flat {
+  border: 1px solid #dce0e0;
+  background-color: white;
+}
+
+.header-flat-details {
+display: flex;
+padding: 30px;
+align-items: center;
+}
+
+.header-flat p {
+  font-size: 14px;
+  color: #777777;
+}
+
+.header-flat h1 {
+  font-size: 18px;
+}
+
+.header-flat-owner {
+  padding: 20px;
+}
+
+.header-flat form {
+  background-color: $light-gray;
+  margin: 20px;
+  padding: 15px;
+  border-radius: $border-radius-large;
+}
+
+#flat-description {
+  padding: 50px 0;
+  font-size: 14px;
+  padding-bottom: 100px;
+}
+
+#flat-description h2 {
+  font-size: 18px;
+}
+
+#flat-data {
+  font-size: 12px;
+  color: #797373;
+}
+
+#flat-data strong {
+  margin-left: 9px;
+}

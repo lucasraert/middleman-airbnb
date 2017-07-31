@@ -1,21 +1,30 @@
 ssaunier:
   name: "Sebastien's home"
+  first_name: "Sebastien"
   description: "Charming room in Montmartre"
   city_name: "Paris, France"
   city_slug: "paris"
+  details: "This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur."
+  accomodates: 2
   wifi: false
   rating: 4
 papillard:
   name: "Boris' home"
+  first_name: "Boris"
   description: Small flat in Tokyo
   city_name: "Paris, France"
   city_slug: "tokyo"
+  details: "This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur."
+  accomodates: 4
   wifi: true
   rating: 3
 monsieurpaillard:
-  name: Romain's home
-  description: Nice flat in Piccadilly
+  name: "Romain's home"
+  first_name: "Romain"
+  description: "Nice flat in Piccadilly"
   city_name: "London, UK"
   city_slug: "london"
+  details: "This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur."
+  accomodates: 6
   wifi: true
   rating: 5
