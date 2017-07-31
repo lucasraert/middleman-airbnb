@@ -1,11 +1,10 @@
 #home {
-  background-color: #D23333;
-  color: white;
-  height: 100vh;
+  background-color: white;
+  color: #333333;
+  // height: 100vh;
   display: flex;
   align-items: center;
   justify-content: space-around;
-  text-align: center;
   p {
     margin-top: 1.5em;
   }
@@ -13,5 +12,11 @@
     color: rgba(0,0,0,0.4);
     font-weight: bold;
     font-size: 16px;
+  }
+  h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    font-weight: bold;
   }
 }
